@@ -33,6 +33,11 @@ I am undergoing treatment at the Juravinski Cancer Center, but really you can ch
 
 Finally I'd like to make a special mention to my workplace, [Crowdmark](https://crowdmark.com). They have been incredibly kind and understanding during all of this, and I quite literally would not have been able to do this without them. We are working tirelessly toward advancing the status quo of assessment in higher education. If you care about education and learning, I urge you to check us out.
 
+Update, from Craig; I'm incredibly saddened to find that Carsten passed away:
+https://www.dignitymemorial.com/obituaries/dundas-on/carsten-nielsen-8730324
+
+Although I never met him, just reading the incredibly open tone of his readme here as well as the heartfelt condolences on his memorial page tell me we've lost someone really special here.
+
 ## Background
 
 In the fall of 2008 I was a freshly minted web developer with a few years of experience under my belt. I was hungry for a challenge, and for some recognition. Apps were becoming a thing at the time and I wanted to build one, badly. I decided I wanted to build one that would require me to first build this API. I never did build that app :laughing:
